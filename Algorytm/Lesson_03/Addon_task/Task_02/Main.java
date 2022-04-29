@@ -11,14 +11,16 @@ public class Main
 {
 	public static void main(String[] args) {
 		int N = 658;
-		int val100, val10;
+		int val100, val10, val1;
 		
 		if( N >= 100 ){
 		    val100 = N / 100;
 		    val10 = (N % 100) / 10;
+		    val1 = N % 10;
 		    
 		    System.out.println("К-во сотен   : "+val100);
 		    System.out.println("К-во десятков: "+val10);
+		    System.out.println("К-во единиц  : "+val1);
 		}
 		else{
 		    System.out.println("Ошибка, число < 100!");
