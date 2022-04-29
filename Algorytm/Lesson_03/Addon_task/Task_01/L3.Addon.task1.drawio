@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-29T13:15:01.850Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.141 YaBrowser/22.3.3.852 Yowser/2.5 Safari/537.36" etag="SoiEXgVas36fqe2fnHZF" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-29T13:24:48.826Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.141 YaBrowser/22.3.3.852 Yowser/2.5 Safari/537.36" etag="8B1HdaFdVT3zVXmGMa5J" version="17.4.6" type="github">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
-    <mxGraphModel dx="1082" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1082" dy="1523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -133,6 +133,9 @@
         </mxCell>
         <mxCell id="-2-cMGuEdAPrwcFwQ8xO-29" value="КОНЕЦ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="1130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-2-cMGuEdAPrwcFwQ8xO-32" value="&lt;span style=&quot;font-size: 14px; font-style: normal; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; display: inline; float: none;&quot;&gt;Напишите программу, находящую второй по величине элемент массива.&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontColor=default;labelBackgroundColor=none;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="180" y="-10" width="520" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
